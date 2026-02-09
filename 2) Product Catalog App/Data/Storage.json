@@ -1,0 +1,48 @@
+{
+  "Product": {
+    "1": {
+      "Name": "Apple",
+      "Id": 1,
+      "Amount": 75,
+      "Price": 1.20,
+      "storageData": 21
+    },
+    "2": {
+      "Name": "Banana",
+      "Id": 2,
+      "Amount": 40,
+      "Price": 2.40,
+      "storageData": 7
+    },
+    "3": {
+      "Name": "Watermelon",
+      "Id": 3,
+      "Amount": 45,
+      "Price": 5,
+      "storageData": 7
+    }
+  },
+  "_product": {
+    "1": {
+      "Name": "Apple",
+      "Id": 1,
+      "Amount": 75,
+      "Price": 1.20,
+      "storageData": 21
+    },
+    "2": {
+      "Name": "Banana",
+      "Id": 2,
+      "Amount": 40,
+      "Price": 2.40,
+      "storageData": 7
+    },
+    "3": {
+      "Name": "Watermelon",
+      "Id": 3,
+      "Amount": 45,
+      "Price": 5,
+      "storageData": 7
+    }
+  }
+}
